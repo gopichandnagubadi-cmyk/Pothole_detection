@@ -4,10 +4,10 @@
 */
 
 const SUPABASE_URL =
-  "https://jdymqqjylrjhrhqdakfq.supabase.co";
+  "SUPABASE_URL";
 
 const SUPABASE_PUBLISHABLE_KEY =
-  "sb_publishable_nBBSroTBJ2xA2mhVGWIqDg_QreS1dwI";
+  "SUPABASE_PUBLISHABLE_KEY";
 
 const DETECTION_API_URL = (() => {
   const configured =
